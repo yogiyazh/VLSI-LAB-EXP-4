@@ -5,5 +5,3 @@ output reg[3:0]out = 4’b0000;
 
 
 endmodule
-
-
